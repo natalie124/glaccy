@@ -1,2 +1,2 @@
-# glaccy
+# gllacy
 верстка макета glaccy
