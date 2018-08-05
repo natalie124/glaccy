@@ -1,2 +1,2 @@
-# glaccy
-верстка макета glaccy
+# gllacy
+верстка макета gllacy
