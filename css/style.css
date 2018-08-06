@@ -739,6 +739,8 @@ a.catalog-link-current {
 }
 .ice-cream-wrapper {
   position: relative;
+}
+.ice-cream-title-wrapper {
   padding-bottom: 15px;
 }
 .ice-cream-img { 
@@ -766,7 +768,7 @@ a.catalog-link-current {
   position: absolute;
   z-index: 4;
   left: 0;
-  bottom: 32%;
+  bottom: 12%;
   display: inline-block;
   padding-right: 6px;
   vertical-align: bottom;
